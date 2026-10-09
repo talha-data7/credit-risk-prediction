@@ -28,4 +28,4 @@ Small and older dataset; not suitable for real loan decisions.
 Try more models, tune parameters, and use a larger dataset.
 
 ## How to run
-Open `credit_risk_project.ipynb` in Google Colab and click Runtime, then Run all.
+Open `credit_risk_project_ipynb_txt.ipynb` in Google Colab and click Runtime, then Run all.
